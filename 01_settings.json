@@ -29,6 +29,7 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "screencastMode.verticalOffset": 0,
+  "tabnine.codeLensEnabled": false,
   "tabnine.experimentalAutoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
